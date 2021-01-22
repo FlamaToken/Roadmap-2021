@@ -1,6 +1,8 @@
 # Flama Pre-Roadmap 2021
 
-Flama is currently rebuilding the website in https://flama.app. This website will include a dashboard with the 3 first dapps:
+Flama is currently rebuilding the website in https://flama.app.
+
+This website will include a dashboard with the first 3 dapps:
 
 # Staking
 
