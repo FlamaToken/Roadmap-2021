@@ -32,7 +32,8 @@ The feeTo recipient of the 0.1% charge is a smartcontract (FlappFeeConverter).
 “FlappFeeConverter” converts FL (Flama Liquidity Tokens) to FLAPP (FLAP) through the Flama-Exchange and decentralized exchanges and protocols and distributes these FLAPP to the Flama Staking Shares (FSS) smartcontract through another smartcontract called “FlappFeeDistributor”.
 
 **Code:**
-- https://github.com/FlamaToken/flama-exchange
+- https://github.com/FlamaToken/flama-exchange-core
+- https://github.com/FlamaToken/flama-exchange-ui
 
 # Lending (+ negative interest feature)
 
