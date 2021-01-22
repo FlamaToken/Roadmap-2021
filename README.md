@@ -1,10 +1,11 @@
-Flama Pre-Roadmap 2021
+# Flama Pre-Roadmap 2021
 
 Flama is currently rebuilding the website in https://flama.app. This website will include a dashboard with the 3 first dapps:
 
 # Staking
 Flama Staking Shares (FSS) allows users to enjoy FLAMA and FLAPP dividends through staking.
-https://github.com/FlamaToken/Staking
+
+Code: https://github.com/FlamaToken/Staking
 
 # Exchange
 Flama Exchange  is a modified Uniswap fork. Trading and flash loans have a 0.35% fee.
