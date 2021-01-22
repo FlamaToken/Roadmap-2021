@@ -4,8 +4,8 @@ Flama is currently rebuilding the website in https://flama.app.
 
 This website will include a dashboard with the first 3 dapps:
 
-- Staking
-- Exchange
+[- Staking](https://github.com/FlamaToken/Roadmap-2021#staking
+[- Exchange]
 - Lending 
 
 # Staking
