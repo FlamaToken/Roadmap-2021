@@ -41,7 +41,7 @@ Alice deposits 100 coins in a platform to borrow 100 USD with a 5% interest rate
 After 1 year, Alice will have to deposit back the amount borrowed (100 USD) + 5% (5 USD) = 105 USD in order to claim back her 100 coins.
 With current borrowing methods, Alice pays 1.05 USD (= 105/100) to claim each coin.
 
-**The inverse lending method:
+**The inverse lending method:**
 
 Alice deposits 100 coins in a platform to borrow 100 USD with a 5% interest rate.
 The 100 coins Alice deposited are sent to the highest yield paying farming/staking protocol.
