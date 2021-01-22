@@ -4,6 +4,10 @@ Flama is currently rebuilding the website in https://flama.app.
 
 This website will include a dashboard with the first 3 dapps:
 
+- Staking
+- Exchange
+- Lending 
+
 # Staking
 
 Flama Staking Shares (FSS) allows users to enjoy FLAMA and FLAPP dividends through staking.
