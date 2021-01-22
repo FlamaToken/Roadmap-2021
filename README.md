@@ -14,7 +14,8 @@ These dapps are explained below.
 
 Flama Staking Shares (FSS) allows users to enjoy FLAMA and FLAPP dividends through staking.
 
-Code: https://github.com/FlamaToken/Staking
+**Code**
+- https://github.com/FlamaToken/Staking
 
 # Exchange
 
@@ -29,6 +30,9 @@ A protocol-wide charge of 0.1% per trade will take effect. This represents 2/7th
 The feeTo recipient of the 0.1% charge is a smartcontract (FlappFeeConverter).
 
 “FlappFeeConverter” converts FL (Flama Liquidity Tokens) to FLAPP (FLAP) through the Flama-Exchange and decentralized exchanges and protocols and distributes these FLAPP to the Flama Staking Shares (FSS) smartcontract through another smartcontract called “FlappFeeDistributor”.
+
+**Code:**
+- https://github.com/FlamaToken/flama-exchange
 
 # Lending (+ negative interest feature)
 
@@ -66,6 +70,8 @@ If there's a protocol that pays a higher yield in a different type of curreny, A
 
 **Now Alice can borrow money without missing on the cost of opportunity of farming/staking!**
 
+**Code:**
+- https://github.com/FlamaToken/flama-inverse-lending
 
 # Development
 
@@ -73,12 +79,8 @@ You can follow our development at https://github.com/flamatoken
 
 # Contact
 
--https://t.me/flamatoken
-
--https://twitter.com/flamatoken
-
--https://medium.com/@FLAMATEAM
-
--https://flamanet.io/
-
--https://flapptoken.io/ 
+- https://t.me/flamatoken
+- https://twitter.com/flamatoken
+- https://medium.com/@FLAMATEAM
+- https://flamanet.io/
+- https://flapptoken.io/ 
